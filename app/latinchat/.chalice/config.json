@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "app_name": "latinchat",
+  "environment_variables": {
+    "DEBUG": "True",
+    "TABLE": "latinChat"
+  },
+  "stages": {
+    "dev": {
+        "autogen_policy": false,
+        "api_gateway_stage": "v1"
+    }
+  }
+}

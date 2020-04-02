@@ -1,0 +1,5 @@
+/app/latinchat/.chalice/deployed
+/app/latinchat/.chalice/deployments
+/app/latinchat/__pycache__
+/app/latinchat/chalicelib/__pycache__
+.idea
